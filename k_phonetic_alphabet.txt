@@ -1,0 +1,59 @@
+* K phonetic alphabet (ver.1)
+
+    Arariyo : 아리랑 아리랑 아라리요
+    Bangtan : 방탄소년단
+    Chunbun : 춘분(春分), 24절기
+    Donghak : 동학(東學)
+    Eunhasu : 은하수
+    Fanmade : 팬메이드
+    Gwangju : 광주광역시
+    Hwarang : 화랑
+    Incheon : 인천광역시
+    Jjimjil : 찜질방
+    Kangwon : 강원도
+    Lineage : NC소프트 리니지
+    Mandupi : 만두피
+    Nakdong : 낙동강
+    Ojingeo : 오징어
+    Pansori : 판소리
+    Quantum : 양자역학
+    Rooftop : 옥탑방 / Rooftop Koreans
+    Ssireum : 씨름
+    Taeyang : 태양
+    Ulleung : 울릉도
+    Vaccine : 안랩 V3
+    Webtoon : 네이버 웹툰
+    Xcarone : 전륜구동 개발 코드네임 x-car, x1
+    Yangban : 양반
+    Zicowoo : 지코
+
+
+
+* NATO phonetic alphabet
+
+    Alfa
+    Bravo
+    Charlie
+    Delta
+    Echo
+    Foxtrot
+    Golf
+    Hotel
+    India
+    Juliett
+    Kilo
+    Lima
+    Mike
+    November
+    Oscar
+    Papa
+    Quebec
+    Romeo
+    Sierra
+    Tango
+    Uniform
+    Victor
+    Whiskey
+    Xray
+    Yankee
+    Zulu
