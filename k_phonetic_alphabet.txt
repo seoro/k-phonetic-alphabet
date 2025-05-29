@@ -1,59 +1,28 @@
-* K phonetic alphabet (ver.1)
+* K phonetic alphabet (ver.2)
 
-    Arariyo : 아리랑 아리랑 아라리요
-    Bangtan : 방탄소년단
+    Arirang : 아리랑
+    Bangtan : 방탄소년단 (Bangtan Sonyeondan, BTS)
     Chunbun : 춘분(春分), 24절기
     Donghak : 동학(東學)
     Eunhasu : 은하수
-    Fanmade : 팬메이드
+    Fashion : 패션
     Gwangju : 광주광역시
     Hwarang : 화랑
     Incheon : 인천광역시
     Jjimjil : 찜질방
     Kangwon : 강원도
-    Lineage : NC소프트 리니지
+    Lineage : 리니지 (NC소프트의 MMORPG 게임)
     Mandupi : 만두피
     Nakdong : 낙동강
-    Ojingeo : 오징어
+    Ojingeo : 오징어 게임 (Squid Game, 넷플릭스 시리즈)
     Pansori : 판소리
-    Quantum : 양자역학
+    Qdotled : QLED (Quantum-dot LED, 삼성전자의 디스플레이 브랜드)
     Rooftop : 옥탑방 / Rooftop Koreans
     Ssireum : 씨름
-    Taeyang : 태양
+    Taeyang : 태양 (BIGBANG의 멤버)
     Ulleung : 울릉도
-    Vaccine : 안랩 V3
+    Vaccine : 안랩 V3 (대한민국 최초의 안티바이러스 소프트웨어)
     Webtoon : 네이버 웹툰
-    Xcarone : 전륜구동 개발 코드네임 x-car, x1
+    Xcarone : x-car, x1 (현대자동차 전륜구동 플랫폼 개발 프로젝트)
     Yangban : 양반
-    Zicowoo : 지코
-
-
-
-* NATO phonetic alphabet
-
-    Alfa
-    Bravo
-    Charlie
-    Delta
-    Echo
-    Foxtrot
-    Golf
-    Hotel
-    India
-    Juliett
-    Kilo
-    Lima
-    Mike
-    November
-    Oscar
-    Papa
-    Quebec
-    Romeo
-    Sierra
-    Tango
-    Uniform
-    Victor
-    Whiskey
-    Xray
-    Yankee
-    Zulu
+    Zicowoo : 지코 (래퍼)
